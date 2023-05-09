@@ -2,7 +2,7 @@
 layout: page
 title: Experience 2
 description: Morgan Stanley- Derivatives Trading Internship
-img: ms.jpg
+img: /assets/img/ms.jpg
 importance: 2
 category: work
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Poker Project
 description: final project for CS 3110
-img: poker.jpg 
+img: /assets/img/poker.jpg 
 importance: 3
 category: fun
 ---

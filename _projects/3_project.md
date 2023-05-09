@@ -2,7 +2,7 @@
 layout: page
 title: Experience 3
 description: Amazon Software Engineering Internship 
-img: amazon.jpg
+img: /assets/img/amazon.jpg
 importance: 3
 category: work
 ---
