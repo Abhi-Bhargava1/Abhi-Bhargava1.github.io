@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Experience 2
+description: Morgan Stanley- Derivatives Trading Internship
+img: ms.jpg
 importance: 2
 category: work
 ---
