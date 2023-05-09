@@ -18,8 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Abhimanyu Bhargava and I'm currently an undergraduate senior at Cornell University. I'm an avid hockey enthusiast. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Abhimanyu Bhargava and I'm currently an undergraduate senior at Cornell University. I'm originally from Boston, MA. I'm majoring in Computer Science and minoring in Mathematics and Operations Research and Information Engineering. I'm going to be starting a job soon at Morgan Stanley in Equity Derivatives trading, and I hope to pursue a career in trading/dev work. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In my free time, I enjoy ice skating, playing hockey, and playing chess. I also love going out, meeting new people, and trying new restaurants (which I hope to do a lot of in New York city, where I'll be starting July). I'm an avid Marvel fan and also love watching period crime drama shows such as The Peaky Blinders and Boardwalk Empire. I recently just turned 21 and also love occasionally going to casinos and playing craps/poker. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+In case you were wondering, [here](http://reddit.com/r/Cornell/) is my favorite subreddit.  
