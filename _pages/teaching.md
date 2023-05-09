@@ -32,6 +32,14 @@ nav_order: 5
     <img src="/assets/img/misc_6.jpg" alt="Image 6">
     <p>description 1</p>
   </div>
+    <div class="grid-item">
+    <img src="/assets/img/misc_7.jpg" alt="Image 7">
+    <p>description 1</p>
+  </div>
+    <div class="grid-item">
+    <img src="/assets/img/misc_8.jpg" alt="Image 8">
+    <p>description 1</p>
+  </div>
 </div>
 
 ## More to come ...
