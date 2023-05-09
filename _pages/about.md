@@ -9,6 +9,7 @@ profile:
   image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>319 College Ave</p>
     <p>Ithaca, NY, 14850</p>
 
 news: false  # includes a list of news items
