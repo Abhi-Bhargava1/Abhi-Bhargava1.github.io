@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 My name is Abhimanyu Bhargava and I'm currently an undergraduate senior at Cornell University. I'm originally from Boston, MA. I'm majoring in Computer Science and minoring in Mathematics and Operations Research and Information Engineering. I'm going to be starting a job soon at Morgan Stanley in Equity Derivatives trading, and I hope to pursue a career in trading/dev work. 
 
-In my free time, I enjoy ice skating, playing hockey, and playing chess. I also love going out, meeting new people, and trying new restaurants (which I hope to do a lot of in New York city, where I'll be starting July). I'm an avid Marvel fan and also love watching period crime drama shows such as The Peaky Blinders and Boardwalk Empire. I recently just turned 21 and also love occasionally going to casinos and playing craps/poker. 
+In my free time, I enjoy ice skating, playing hockey, and playing chess. I also love going out, meeting new people, and trying new restaurants (which I hope to do a lot of in New York city, where I'll be starting in July). I'm an avid Marvel fan and also love watching period crime drama shows such as The Peaky Blinders and Boardwalk Empire. I recently just turned 21 and also love occasionally going to casinos and playing craps/poker. 
 
 
 In case you were wondering, [here](http://reddit.com/r/Cornell/) is my favorite subreddit.  
