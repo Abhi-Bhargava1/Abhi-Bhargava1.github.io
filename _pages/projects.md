@@ -2,7 +2,7 @@
 layout: page
 title: projects/experience
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Here is some of my relevant experience/my projects. 
 nav: truegit
 nav_order: 2
 display_categories: [work, fun]
