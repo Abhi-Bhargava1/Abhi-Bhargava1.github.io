@@ -9,7 +9,7 @@ nav_order: 5
 
 <div class="grid-container">
   <div class="grid-item">
-    <img src="/assets/img/prof_pic2.jpg" alt="caption 1">
+    <img src="prof_pic2.jpg" alt="caption 1">
     <div class="caption">caption 1</div>
   </div>
   <div class="grid-item">
