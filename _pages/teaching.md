@@ -21,14 +21,13 @@ nav_order: 5
     <div class="caption">caption 3</div>
   </div>
   <div class="grid-item">
-    <img src="4.jpg alt="caption 4">
+    <img src="4.jpg" alt="caption 4">
     <div class="caption">caption 4</div>
   </div>
 </div>
 
-## Adventures to be continued...
+## More to come ...
 
-**Adventures to be continued...**
 
 <style>
   .grid-container {
