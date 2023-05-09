@@ -9,20 +9,28 @@ nav_order: 5
 
 <div class="grid-container">
   <div class="grid-item">
-    <img src="prof_pic2.jpg" alt="caption 1">
-    <div class="caption">caption 1</div>
+    <img src="misc_1.jpg" alt="Image 1">
+    <p>description 1</p>
   </div>
   <div class="grid-item">
-    <img src="/assets/img/prof_pic2.jpg" alt="caption 2">
-    <div class="caption">caption 2</div>
+    <img src="misc_2.jpg" alt="Image 2">
+    <p>description 1</p>
   </div>
   <div class="grid-item">
-    <img src="/assets/img/prof_pic2.jpg" alt="caption 3">
-    <div class="caption">caption 3</div>
+    <img src="misc_3.jpg" alt="Image 3">
+    <p>description 1</p>
   </div>
   <div class="grid-item">
-    <img src="/assets/img/prof_pic2.jpg" alt="caption 4">
-    <div class="caption">caption 4</div>
+    <img src="misc_4.jpg" alt="Image 4">
+    <p>description 1</p>
+  </div>
+    <div class="grid-item">
+    <img src="misc_5.jpg" alt="Image 3">
+    <p>description 1</p>
+  </div>
+  <div class="grid-item">
+    <img src="misc_6.jpg" alt="Image 6">
+    <p>description 1</p>
   </div>
 </div>
 
@@ -42,14 +50,10 @@ nav_order: 5
     width: 100%;
     height: auto;
   }
-  .caption {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
-    color: white;
+  .grid-item p {
     text-align: center;
-    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 0;
+    font-size: 14px;
   }
 </style>
