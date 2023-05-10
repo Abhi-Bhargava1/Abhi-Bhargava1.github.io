@@ -10,35 +10,35 @@ nav_order: 5
 <div class="grid-container">
   <div class="grid-item">
     <img src="/assets/img/misc_1.jpg" alt="Image 1">
-    <p>description 1</p>
+    <p>Playing some ice hockey!</p>
   </div>
   <div class="grid-item">
     <img src="/assets/img/misc_2.jpg" alt="Image 2">
-    <p>description 1</p>
+    <p>From my trip to Las Vegas</p>
   </div>
   <div class="grid-item">
     <img src="/assets/img/misc_3.jpg" alt="Image 3">
-    <p>description 1</p>
+    <p>With a llama from the Cornell Vet School!</p>
   </div>
   <div class="grid-item">
     <img src="/assets/img/misc_4.jpg" alt="Image 4">
-    <p>description 1</p>
+    <p>Six Mile Creek Vineyard!</p>
   </div>
     <div class="grid-item">
     <img src="/assets/img/misc_5.jpg" alt="Image 3">
-    <p>description 1</p>
+    <p>Visiting Columbia Friends</p>
   </div>
   <div class="grid-item">
     <img src="/assets/img/misc_6.jpg" alt="Image 6">
-    <p>description 1</p>
+    <p>Final Cornell Hockey game with roommates!</p>
   </div>
     <div class="grid-item">
     <img src="/assets/img/misc_7.jpg" alt="Image 7">
-    <p>description 1</p>
+    <p>Visiting UMass Amherst with high school friends!</p>
   </div>
     <div class="grid-item">
     <img src="/assets/img/misc_8.jpg" alt="Image 8">
-    <p>description 1</p>
+    <p>NYC Rooftop, Summer of 2022 </p>
   </div>
 </div>
 
